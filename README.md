@@ -1,2 +1,3 @@
 # hello-world.
-Another demo repository
+Just another dumb demo repository.
+Hi human!
